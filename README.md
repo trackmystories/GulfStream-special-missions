@@ -3,9 +3,9 @@ Link: https://trackmystories.github.io/Special-Missions--GulfStream-Aerospace-cl
 # GulfStream Special missions sample
 
 
-<img src="./screen1.png" width="350" alt="screen2.png">
+<img src="./screen1.png" width="650" alt="screen2.png">
 
 
-<img src="./screen2.png" width="350" alt="screen2.png">
+<img src="./screen2.png" width="650" alt="screen2.png">
 
-<img src="./carousal.png" width="350" alt="carousal.png">
+<img src="./carousal.png" width="650" alt="carousal.png">
