@@ -1,1 +1,11 @@
-This works purpose is to showcase the use of HTML, CSS and JS. This example has been heavily infleunced from Gulfstream's website, it is not and should not be considered official in any way and is not officially or commercially linked or assosiated to Gulfstream Aerospace Corporation.
+Link: https://trackmystories.github.io/Special-Missions--GulfStream-Aerospace-clone/
+
+# GulfStream Special missions sample
+
+
+<img src="./assets/screen1.png" width="350" alt="screen2.png">
+
+
+<img src="./assets/screen2.png" width="350" alt="screen2.png">
+
+<img src="./assets/carousal.png" width="350" alt="carousal.png">
